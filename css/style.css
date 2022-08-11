@@ -24,7 +24,7 @@ body {
 }
 
 main {
-  display: flex; 
+  display: flex;
   justify-content: center;
   align-items: center;
   margin: 40px 0 0 0;
@@ -44,14 +44,14 @@ main {
 }
 
 .card__qr {
-    border-radius: 14px;
-    width: 90%;
+  border-radius: 14px;
+  width: 90%;
 }
 
 .card__text__wrapper__heading {
   text-align: center;
   font-size: 38px;
-  margin: 40px 0 0 0;
+  margin: 40px 0 40px 0;
 }
 
 .card__text__wrapper__paragraph {
